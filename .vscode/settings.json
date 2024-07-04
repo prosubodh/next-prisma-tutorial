@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "sdfadf",
+      "group": "a",
+      "database": "${workspaceFolder:next-prisma}/prisma/dev.db"
+    }
+  ]
+}
